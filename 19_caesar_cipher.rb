@@ -23,7 +23,7 @@
 # Difficulty: hard. Because this problem relies on outside
 # information, we would not give it to you on the timed challenge. :-)
 
-This is the code that I wrote. It works except I wasn't able to crack how to do the "wrap-around" for letters at the end of the alphabet.  
+  
 
 
 def caesar_cipher(offset, string)
